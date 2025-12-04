@@ -1,0 +1,5 @@
+{
+  "name": "StrategyDeck.ai",
+  "description": "An executive-level presentation generator converting multi-modal inputs into McKinsey-style consulting decks using Gemini 2.5.",
+  "requestFramePermissions": []
+}
